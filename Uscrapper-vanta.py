@@ -22,12 +22,34 @@ from tbselenium.tbdriver import TorBrowserDriver
 from tbselenium.utils import start_xvfb, stop_xvfb
 from pyvirtualdisplay import Display
 print("\n")
-print(colored("     █░█", 'red', attrs=['dark']),colored("█▀ █▀▀ █▀█ ▄▀█ █▀█ █▀█ █▀▀ █▀█  ","white",attrs=['bold']))
-print(colored("     █▄█", 'red', attrs=['dark']),colored("▄█ █▄▄ █▀▄ █▀█ █▀▀ █▀▀ ██▄ █▀▄ ","white", attrs=['bold']))#colored("(v2.0)","blue",))
-print(colored("                                   𝓥𝓪𝓷𝓽𝓪", 'white', attrs=['bold']))
+print(colored("NNNNNNNN        NNNNNNNN  iiii                     hhhhhhh                     tttt          FFFFFFFFFFFFFFFFFFFFFF                lllllll lllllll ", 'red', attrs=['dark']), colored("        ","white", attrs=['bold']))
+print(colored("N:::::::N       N::::::N i::::i                    h:::::h                  ttt:::t          F::::::::::::::::::::F                l:::::l l:::::l ", 'red', attrs=['dark']), colored("        ","white", attrs=['bold']))
+print(colored("N::::::::N      N::::::N  iiii                     h:::::h                  t:::::t          F::::::::::::::::::::F                l:::::l l:::::l ", 'red', attrs=['dark']), colored("        ","white", attrs=['bold']))
+print(colored("N:::::::::N     N::::::N                           h:::::h                  t:::::t          FF::::::FFFFFFFFF::::F                l:::::l l:::::l ", 'red', attrs=['dark']), colored("        ","white", attrs=['bold']))
+print(colored("N::::::::::N    N::::::Niiiiiii    ggggggggg   gggggh::::h hhhhh      ttttttt:::::ttttttt      F:::::F       FFFFFFaaaaaaaaaaaaa    l::::l  l::::l ", 'red', attrs=['dark']), colored("        ","white", attrs=['bold']))
+print(colored("N:::::::::::N   N::::::Ni:::::i   g:::::::::ggg::::gh::::hh:::::hhh   t:::::::::::::::::t      F:::::F             a::::::::::::a   l::::l  l::::l ", 'red', attrs=['dark']), colored("        ","white", attrs=['bold']))
+print(colored("N:::::::N::::N  N::::::N i::::i  g:::::::::::::::::gh::::::::::::::hh t:::::::::::::::::t      F::::::FFFFFFFFFF   aaaaaaaaa:::::a  l::::l  l::::l ", 'red', attrs=['dark']), colored("        ","white", attrs=['bold']))
+print(colored("N::::::N N::::N N::::::N i::::i g::::::ggggg::::::ggh:::::::hhh::::::htttttt:::::::tttttt      F:::::::::::::::F            a::::a  l::::l  l::::l ", 'red', attrs=['dark']), colored("        ","white", attrs=['bold']))
+print(colored("N::::::N  N::::N:::::::N i::::i g:::::g     g:::::g h::::::h   h::::::h     t:::::t            F:::::::::::::::F     aaaaaaa:::::a  l::::l  l::::l ", 'red', attrs=['dark']), colored("        ","white", attrs=['bold']))
+print(colored("N::::::N   N:::::::::::N i::::i g:::::g     g:::::g h:::::h     h:::::h     t:::::t            F::::::FFFFFFFFFF   aa::::::::::::a  l::::l  l::::l ", 'red', attrs=['dark']), colored("        ","white", attrs=['bold']))
+print(colored("N::::::N    N::::::::::N i::::i g:::::g     g:::::g h:::::h     h:::::h     t:::::t            F:::::F            a::::aaaa::::::a  l::::l  l::::l ", 'red', attrs=['dark']), colored("        ","white", attrs=['bold']))
+print(colored("N::::::N     N:::::::::N i::::i g::::::g    g:::::g h:::::h     h:::::h     t:::::t    tttttt  F:::::F           a::::a    a:::::a  l::::l  l::::l ", 'red', attrs=['dark']), colored("        ","white", attrs=['bold']))
+print(colored("N::::::N      N::::::::Ni::::::ig:::::::ggggg:::::g h:::::h     h:::::h     t::::::tttt:::::tFF:::::::FF         a::::a    a:::::a l::::::ll::::::l", 'red', attrs=['dark']), colored("        ","white", attrs=['bold']))
+print(colored("N::::::N       N:::::::Ni::::::i g::::::::::::::::g h:::::h     h:::::h     tt::::::::::::::tF::::::::FF         a:::::aaaa::::::a l::::::ll::::::l", 'red', attrs=['dark']), colored("        ","white", attrs=['bold']))
+print(colored("N::::::N        N::::::Ni::::::i  gg::::::::::::::g h:::::h     h:::::h       tt:::::::::::ttF::::::::FF          a::::::::::aa:::al::::::ll::::::l", 'red', attrs=['dark']), colored("        ","white", attrs=['bold']))
+print(colored("NNNNNNNN         NNNNNNNiiiiiiii    gggggggg::::::g hhhhhhh     hhhhhhh         ttttttttttt  FFFFFFFFFFF           aaaaaaaaaa  aaaallllllllllllllll", 'red', attrs=['dark']), colored("        ","white", attrs=['bold']))
+print(colored("                                            g:::::g                                                                                                ", 'red', attrs=['dark']), colored("        ","white", attrs=['bold']))
+print(colored("                                gggggg      g:::::g                                                                                                ", 'red', attrs=['dark']), colored("        ","white", attrs=['bold']))
+print(colored("                                g:::::gg   gg:::::g                                                                                                ", 'red', attrs=['dark']), colored("        ","white", attrs=['bold']))
+print(colored("                                 g::::::ggg:::::::g                                                                                                ", 'red', attrs=['dark']), colored("        ","white", attrs=['bold']))
+print(colored("                                  gg:::::::::::::g                                                                                                ", 'red', attrs=['dark']), colored("        ","white", attrs=['bold']))
+print(colored("                                    ggg::::::ggg                                                                                                   ", 'red', attrs=['dark']), colored("        ","white", attrs=['bold']))
+print(colored("                                       gggggg                          ", 'red', attrs=['dark']), colored("                                                                                                   ","white", attrs=['bold']))
 
-print(colored("\n     𝘜𝘯𝘭𝘦𝘢𝘴𝘩 𝘵𝘩𝘦 𝘱𝘰𝘸𝘦𝘳 𝘰𝘧 𝘖𝘱𝘦𝘯-𝘚𝘰𝘶𝘳𝘤𝘦 𝘐𝘯𝘵𝘦𝘭.","yellow"))
-print(colored("           ~𝑩𝒚: 𝑷𝒓𝒂𝒏𝒋𝒂𝒍 𝑮𝒐𝒆𝒍 (𝒛0𝒎31𝒆𝒏7)\n", "red"))
+
+print(colored("\n    𝓝𝓲𝓰𝓱𝓽𝓯𝓪𝓵𝓵: 𝓽𝓱𝓸𝓼𝓮 𝔀𝓱𝓸 𝓵𝓾𝓻𝓴 𝔀𝓲𝓵𝓵 𝓯𝓪𝓵𝓵 𝓲𝓷 𝓽𝓱𝓮 𝓷𝓲𝓰𝓱𝓽","yellow"))
+print(colored("           ~𝑩𝒚: 𝑵𝒐𝑨𝒔𝒔𝒐𝒄𝒊𝒂𝒕𝒊𝒐𝒏 (@noassosciation on tele for personal tools)\n", "red"))
+
 
 extracted_usernames0 = []
 extracted_phone_numbers0 = []
