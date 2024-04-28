@@ -1,6 +1,6 @@
 <h1 align="center" id="title">NightFall</h1><br>
 
-<p align="center"><img src="![NightFall img 1](https://github.com/NoAssosciation/NightFall/assets/166069147/cba48d8d-f4fb-4b5c-9a6c-c74b89f47f7d)
+<p align="center"><img src="https://ibb.co/nBPqGwV"
 "></p><br>
 
 <p id="description" align="justify">Introducing Uscrapper Vanta, Unleashing the Power of Open-Source Intelligence, dive deeper into the vast web with Uscrapper Vanta, Vanta unlocks a new level of data extraction capabilities, empowering the exploration of the uncharted territories of the dark web and uncovering hidden gems with pinpoint accuracy using the keyword extraction model. Uscrapper Vanta retains the core strengths of its predecessor, It can be used to Harvest a wealth of personal information, including email addresses, social media links, author names, geolocations, phone numbers, and usernames, from both hyperlinked and non-hyperlinked sources. Leveraging multithreading and sophisticated anti-web scraping defenses with advanced modules, ensuring you can access the data you require, Vanta supports 'crawl and scrape' within the same domain, gathering information from every relevant corner of a website, Generates comprehensive reports to organize and analyze the extracted data, turning raw information into actionable insights.</p><br><br>
