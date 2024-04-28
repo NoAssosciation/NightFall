@@ -69,4 +69,4 @@ python NightFall.py [-h] [-u URL] [-O] [-ns] [-c CRAWL] [-t THREADS] [-k KEYWORD
 * You can contribute by making the regular expressions more efficient and accurate, or by suggesting some more features that can be added.
 
 <h2>🛡️ License:</h2><br>
-This project is licensed under the <a href="https://github.com/NoAssosciation/NightFall/blob/main/LICENSE">MIT-LICENSE</a><br><br>
+This project is licensed under the <a href="https://github.com/NoAssosciation/NightFall/blob/main/LICENSE">GPL-3.0 license</a><br><br>
