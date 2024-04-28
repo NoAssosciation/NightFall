@@ -7,7 +7,7 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="shields"><img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&amp;logo=tmux&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&amp;logo=windows%20terminal&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&amp;logo=iterm2&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white&amp;logo=python&amp;logoColor=white" alt="shields"></p><br><br>
 
-<p align="center"><img src="https://github.com/NoAssosciation/NightFall/blob/main/Images/Logo.png" alt="project-logo"></p><br>
+<p align="center"><img src="https://github.com/NoAssosciation/NightFall/blob/main/Images/Logo.PNG" alt="project-logo"></p><br>
 
 
 
