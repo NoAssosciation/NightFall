@@ -7,7 +7,7 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="shields"><img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&amp;logo=tmux&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&amp;logo=windows%20terminal&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&amp;logo=iterm2&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white&amp;logo=python&amp;logoColor=white" alt="shields"></p><br><br>
 
-<p align="center"><img src="https://github.com/z0m31en7/Uscrapper/blob/main/Images/Logo.png" alt="project-logo"></p><br>
+<p align="center"><img src="https://github.com/NoAssosciation/NightFall/blob/main/Images/Logo.png" alt="project-logo"></p><br>
 
 
 
@@ -22,11 +22,6 @@ Uscrapper extracts the following details from the provided website:
 *   Geolocations: Displays geolocation information associated with the website.
 *   Non-Hyperlinked Details: Displays non-hyperlinked details found on the website including email addresses phone numbers and usernames.
 *   Keyword Based Extraction: Displays relevant data by specifying terms or curating comprehensive keyword lists.
-
-<br><h2>📽 Preview:</h2><br>
-
-<p align="center"><img src="https://github.com/z0m31en7/Uscrapper/blob/main/Images/Preview.png" alt="project-ss"></p><br>
-<p align="center"><img src="https://github.com/z0m31en7/Uscrapper/blob/main/Images/Preview2.png" alt="project-ss2"></p>
 
 
 <h2>🛠️ Installation Steps:</h2><br>
