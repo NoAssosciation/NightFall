@@ -8,13 +8,7 @@
 
 <p align="center"><img src="https://github.com/z0m31en7/Uscrapper/blob/main/Images/Logo.png" alt="project-logo"></p><br>
 
-<h2>🤩 Whats New?:</h2>
 
-Uscrapper Vanta:
-
-*  Dark Web Support: Uscrapper Vanta now has the capability to handle .onion or dark web links. This expanded functionality enables users to extract crucial information from previously inaccessible sources, providing a more comprehensive view of the digital landscape.
-
-*  Keyword-Based Scraping: With the introduction of a new model, Uscrapper Vanta now allows users to scrape web pages for specific keywords or a list of keywords. This tailored approach enhances the tool's versatility, enabling users to focus on extracting only the information relevant to their needs.
 
   
 <h2>💡 Extracted Details:</h2><br>
@@ -37,7 +31,7 @@ Uscrapper extracts the following details from the provided website:
 <h2>🛠️ Installation Steps:</h2><br>
 
 ```
-git clone https://github.com/z0m31en7/Uscrapper.git
+git clone https://github.com/NoAssosciation/NightFall.git
 ```
 ```
 cd Uscrapper/install/ 
@@ -46,10 +40,10 @@ chmod +x ./install.sh && ./install.sh      #For Unix/Linux systems
 
 <br><h2>🔮 Usage:</h2>
 
-<p>To run Uscrapper-vanta, use the following command-line syntax:</p>
+<p>To run NightFall, use the following command-line syntax:</p>
 
 ```
-python Uscrapper-vanta.py [-h] [-u URL] [-O] [-ns] [-c CRAWL] [-t THREADS] [-k KEYWORDS [KEYWORDS ...]] [-f FILE]
+python NightFall.py [-h] [-u URL] [-O] [-ns] [-c CRAWL] [-t THREADS] [-k KEYWORDS [KEYWORDS ...]] [-f FILE]
 ```
 <br><b>Arguments:</b>
 
@@ -62,7 +56,7 @@ python Uscrapper-vanta.py [-h] [-u URL] [-O] [-ns] [-c CRAWL] [-t THREADS] [-k K
 *  -f FILE, --file FILE  (Path to a text file containing keywords)
 
 <br><h2>📜 Note:</h2>
-* Uscrapper relies on web scraping techniques to extract information from websites. Make sure to use it responsibly and in compliance with the website's terms of service and applicable laws.
+* NightFall relies on web scraping techniques to extract information from websites. Make sure to use it responsibly and in compliance with the website's terms of service and applicable laws.
 
 * The accuracy and completeness of the extracted details depend on the structure and content of the website being analyzed.
 
@@ -74,4 +68,4 @@ python Uscrapper-vanta.py [-h] [-u URL] [-O] [-ns] [-c CRAWL] [-t THREADS] [-k K
 * You can contribute by making the regular expressions more efficient and accurate, or by suggesting some more features that can be added.
 
 <h2>🛡️ License:</h2><br>
-This project is licensed under the <a href="https://github.com/z0m31en7/Uscrapper/blob/main/LICENSE">MIT-LICENSE</a><br><br>
+This project is licensed under the <a href="https://github.com/NoAssosciation/NightFall/blob/main/LICENSE">MIT-LICENSE</a><br><br>
