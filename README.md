@@ -30,7 +30,7 @@ Uscrapper extracts the following details from the provided website:
 git clone https://github.com/NoAssosciation/NightFall.git
 ```
 ```
-cd Uscrapper/install/ 
+cd NightFall/install/ 
 chmod +x ./install.sh && ./install.sh      #For Unix/Linux systems
 ```
 
