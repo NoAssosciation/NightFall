@@ -19,4 +19,4 @@ def start_tor():
 
 def stop_tor(tor_process):
     if tor_process:
-        tor_process.kill()
+        tor_process.kill() 
